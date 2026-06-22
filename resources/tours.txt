@@ -1,0 +1,5 @@
+Ruta Volcan Osorno;Aventura;25000
+Lago Llanquihue;Lacustre;18000
+Tour Frutillar;Cultural;15000
+Ruta Gastronomica;Gastronomico;22000
+Saltos del Petrohue;Aventura;30000
